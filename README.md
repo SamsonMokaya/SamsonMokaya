@@ -1,8 +1,98 @@
-- 👋 Hi, I’m @SamsonMokaya
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning kotlin and flutter
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me : afraidrenegade.com
+<h1 align="center"> Whats Up!👋</h1>
+
+<br/>
+
+
+<h2 align="center">Skill Set</h2>
+
+<p align="left">
+  
+  <!-- C# --> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#" /></a> 
+
+<!-- Java --> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java" /></a>
+  
+<!-- JS --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
+  
+<!-- Kotlin --> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" title="Kotlin" /></a>
+  
+<!-- Android --> <a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" width="36" height="36" alt="Android" title="Android" /></a>
+  
+<!-- Dart --> <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="36" height="36" alt="Dart" title="Dart" /></a>
+  
+<!-- Flutter --> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="36" height="36" alt="Flutter" title="Flutter" /></a>
+
+   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+    
+<!-- Python --> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="C++" title="C++" /></a>
+  
+ 
+ <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="120"/>
+  
+  
+<!-- PHP --> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP" /></a>
+  
+  <img src="https://user-images.githubusercontent.com/68181226/222900578-9db2553f-a92e-4cbb-bc9c-ad649d1ad8f1.png"/>
+  
+  <img src="https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white"/>
+  
+  <!-- MySQL --> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" /></a>
+
+  
+<!-- HTML5 --> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
+
+<!-- CSS3 --> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a>
+  
+
+<!-- TailWindCSS --> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS" /></a>
+  
+<!-- Bootstrap --> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap" /></a>
+  
+
+<!-- Figma --> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" /></a>
+  
+
+ 
+  
+
+
+  
+ <h2 align="center">Github Stats</h2>
+ 
+ <table>
+  <tr>
+    <td>
+      <!--Stats-->
+      <img align="left" src="https://readme-stats.clckblog.space/api?username=SamsonMokaya&show_icons=true&count_private=true&theme=tokyonight"/>
+    </td>
+    <td>
+      <!--Streak-->
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SamsonMokaya&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
+
+
+<p align="center">
+  <!--Languages -->
+  <img align="top" src="https://readme-stats.clckblog.space/api/top-langs/?username=SamsonMokaya&langs_count=8&layout=compact&theme=tokyonight"/>
+</p>
+
+<!--  -->
+
+ <h2 align="center">Hit me up</h2>
+ 
+<p align="center">
+  
+<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com"/> -->
+<a href="mailto: mokayasamson950@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/samson-mokaya-95016a1a4/">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
 
 <!---
 SamsonMokaya/SamsonMokaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
