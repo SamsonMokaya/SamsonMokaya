@@ -25,8 +25,10 @@
     
 <!-- Python --> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="C++" title="C++" /></a>
   
- 
+<!-- fast api  -->
  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="120"/>
+  
+
   
   
 <!-- PHP --> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP" /></a>
@@ -49,6 +51,11 @@
   
 
 <!-- Figma --> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" /></a>
+  
+  
+  <!--  Superbase  -->
+  
+  <img src="https://user-images.githubusercontent.com/68181226/223103135-1e7f61f9-111b-45ac-ab04-c4a5f5c3d6f8.png" width="120" height="30"/>
   
 
  
