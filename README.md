@@ -33,9 +33,11 @@
   
 <!-- PHP --> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP" /></a>
   
-  <img src="https://user-images.githubusercontent.com/68181226/222900578-9db2553f-a92e-4cbb-bc9c-ad649d1ad8f1.png"/>
+  <!-- CI4 --> <a href="https://codeigniter.com/user_guide/index.html" target="_blank" rel="noreferrer" title="codeigniter"><img src="https://user-images.githubusercontent.com/68181226/222900578-9db2553f-a92e-4cbb-bc9c-ad649d1ad8f1.png"/></a>
   
-  <img src="https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white"/>
+  
+  <!-- Laravel --> <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="laravel"><img src="https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white"/></a>
+  
   
   <!-- MySQL --> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" /></a>
 
