@@ -40,7 +40,6 @@
   
   
   <!-- MySQL --> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" /></a>
-
   
 <!-- HTML5 --> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
 
@@ -53,19 +52,29 @@
   
 
 <!-- Figma --> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" /></a>
+  
+   
 
   <!--  Superbase  -->
   
   <img src="https://user-images.githubusercontent.com/68181226/223103135-1e7f61f9-111b-45ac-ab04-c4a5f5c3d6f8.png" width="120" height="30"/>
   
+  
    <!--  ExpressJS + nodeJS  -->
   
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/SamsonMokaya/SamsonMokaya/assets/68181226/8ac4a72d-9a46-49d7-a2ed-12c4a6ed9af7" width="120" height="30"/></a>
+<!--   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/SamsonMokaya/SamsonMokaya/assets/68181226/8ac4a72d-9a46-49d7-a2ed-12c4a6ed9af7" width="160" height="30"/></a> -->
+  
+  <!--  mongoDB  -->
+  
+<!--   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/SamsonMokaya/SamsonMokaya/assets/68181226/913c8bc3-a980-44f8-bab3-9c434d4604e3" width="120" height="30"/></a> -->
+  
+ 
   
   
   
 
- 
+
+
   
 
 
