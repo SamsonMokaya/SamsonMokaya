@@ -57,16 +57,17 @@
 
   <!--  Superbase  -->
   
-  <img src="https://user-images.githubusercontent.com/68181226/223103135-1e7f61f9-111b-45ac-ab04-c4a5f5c3d6f8.png" width="120" height="30"/>
+  <img src="https://user-images.githubusercontent.com/68181226/223103135-1e7f61f9-111b-45ac-ab04-c4a5f5c3d6f8.png" width="120" height="30"/><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs" width="40" height="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="40" height="40" /> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+            width="70" height="50" /> </a>
   
-  
-   <!--  ExpressJS + nodeJS  -->
-  
-<!--   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/SamsonMokaya/SamsonMokaya/assets/68181226/8ac4a72d-9a46-49d7-a2ed-12c4a6ed9af7" width="160" height="30"/></a> -->
-  
-  <!--  mongoDB  -->
-  
-<!--   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/SamsonMokaya/SamsonMokaya/assets/68181226/913c8bc3-a980-44f8-bab3-9c434d4604e3" width="120" height="30"/></a> -->
+
   
  
   
