@@ -1,6 +1,42 @@
-<h1 align="center"> What's Up!👋</h1>
+# Hi there, I'm Samson Mokaya 👋
 
-<br/>
+🌍 **Full Stack Engineer & Mobile Developer**  
+Welcome to my GitHub! I’m a passionate software engineer with experience across the stack — from building robust backends and sleek frontends to crafting seamless mobile apps.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages & Frameworks:**  
+  Dart, Flutter, JavaScript, Node.js, Python, Django, FastAPI, PHP, CodeIgniter4
+
+- **Cloud & DevOps:**  
+  AWS (Elastic Beanstalk, ECR, CodePipeline, CodeBuild), Docker, Firebase, Firebase Functions, Digital Ocean, cPanel
+
+- **Specialties:**  
+  Multi-docker setups, CI/CD pipelines, scalable APIs, cross-platform mobile development
+
+---
+
+## 🚀 Featured Projects
+
+- [LD Talent Work](https://www.ldtalentwork.com/)  
+  *A platform connecting vetted developers with remote work opportunities.*
+
+- [Tastebuds](https://wearetastebuds.com/)  
+  *A vibrant platform for food enthusiasts to connect and discover culinary experiences.*
+
+- [Kiriri University CMS](https://kwust.ac.ke)  
+  *Custom content management system developed for Kiriri Women's University of Science and Technology.*
+
+- **Hailcube**  
+  *Details coming soon!*
+
+---
+
+## 🌱 A Little More About Me
+- 🎮 I Love playing combat games like Call of Duty
+- 🎬 Enjoy watching movies and documentaries
 
 <h2 align="center">Skill Set</h2>
 
@@ -156,6 +192,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+*Let’s build something awesome together!*
 
 <!---
 SamsonMokaya/SamsonMokaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
