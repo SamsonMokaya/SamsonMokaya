@@ -29,9 +29,6 @@ Welcome to my GitHub! I’m a passionate software engineer with experience acros
 - [Kiriri University CMS](https://kwust.ac.ke)  
   *Custom content management system developed for Kiriri Women's University of Science and Technology.*
 
-- **Hailcube**  
-  *Details coming soon!*
-
 ---
 
 ## 🌱 A Little More About Me
