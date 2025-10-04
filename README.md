@@ -18,19 +18,6 @@ Welcome to my GitHub! I’m a passionate software engineer with experience acros
 
 ---
 
-## 🚀 Featured Projects
-
-- [LD Talent Work](https://www.ldtalentwork.com/)  
-  *A platform connecting vetted developers with remote work opportunities.*
-
-- [Tastebuds](https://wearetastebuds.com/)  
-  *A vibrant platform for food enthusiasts to connect and discover culinary experiences.*
-
-- [Kiriri University CMS](https://kwust.ac.ke)  
-  *Custom content management system developed for Kiriri Women's University of Science and Technology.*
-
----
-
 ## 🌱 A Little More About Me
 - 🎮 I Love playing combat games like Call of Duty
 - 🎬 Enjoy watching movies and documentaries
