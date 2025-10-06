@@ -1,7 +1,7 @@
 # Hi there, I'm Samson Mokaya 👋
 
 🌍 **Full Stack Engineer & Mobile Developer**  
-Welcome to my GitHub! I’m a passionate software engineer with experience across the stack — from building robust backends and sleek frontends to crafting seamless mobile apps.
+Welcome to my GitHub! I’m a passionate software engineer with experience across the stack.
 
 ---
 
