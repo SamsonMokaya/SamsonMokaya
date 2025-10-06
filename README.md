@@ -8,14 +8,11 @@ Welcome to my GitHub! I’m a passionate software engineer with experience acros
 ## 🛠️ Tech Stack
 
 - **Languages & Frameworks:**  
-  Dart, Flutter, JavaScript, Node.js, Python, Django, FastAPI, PHP, CodeIgniter4
+  Flutter, React, NextJs, Node & Express, Python, Django, FastAPI, PHP, CodeIgniter4
 
 - **Cloud & DevOps:**  
-  AWS (Elastic Beanstalk, ECR, CodePipeline, CodeBuild), Docker, Firebase, Firebase Functions, Digital Ocean, cPanel
-
-- **Specialties:**  
-  Multi-docker setups, CI/CD pipelines, scalable APIs, cross-platform mobile development
-
+  AWS, Docker, Firebase, Firebase Functions, Digital Ocean, cPanel
+  
 ---
 
 ## 🌱 A Little More About Me
