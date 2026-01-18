@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m a passionate software engineer with experience acros
 ## 🛠️ Tech Stack
 
 - **Languages & Frameworks:**  
-  Flutter, React, NextJs, Node & Express, Python, Django, FastAPI, PHP, CodeIgniter4
+  Flutter, JS, React, NextJs, Node & Express, Python, Django, FastAPI, PHP, CodeIgniter4
 
 - **Cloud & DevOps:**  
   AWS, Docker, Firebase, Digital Ocean, cPanel
